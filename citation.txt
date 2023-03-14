@@ -1,0 +1,9 @@
+@article{REPO-257,
+    author = "Wang, Sheng and Ding, Zhijun and Jiang, Changjun",
+    journal = "IEEE Transactions on Parallel and Distributed Systems",
+    number = "1",
+    pages = "98--115",
+    title = "{Elastic Scheduling for Microservice Applications in Clouds}",
+    volume = "32",
+    year = "2020"
+}
